@@ -1,0 +1,1 @@
+Edit [\libs\php\config.php] to match the details of your Database-Hosting
