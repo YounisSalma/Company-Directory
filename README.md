@@ -1,5 +1,5 @@
-# RosterFlow
-RosterFlow is a cross-platform desktop and mobile application designed to manage personnel records efficiently.
+# Company Directory
+Company Directory is a cross-platform desktop and mobile application designed to manage personnel records efficiently.
 
 Users can add, edit, delete, and filter personnel data through an intuitive and user-friendly interface. The app connects to a database, ensuring seamless data storage and retrieval. Key features include:
 
